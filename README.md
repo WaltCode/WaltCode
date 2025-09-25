@@ -9,9 +9,7 @@
 
 🔭 I’m currently working on **a Buy Now, Pay Later (BNPL) platform** with **NestJS, TypeORM, MySQL, and Redis**.  
 
-🌱 Constantly learning and exploring **system design, infrastructure, networking, and distributed systems**.  
-
-👨‍💻 Writing articles soon on **[my blog](#)** (coming soon).  
+🌱 Constantly learning and exploring **system design, infrastructure, networking, and distributed systems**.   
 
 💬 Ask me about **NestJS, TypeScript, Redis, MySQL, System Design, Backend Architecture, APIs**.  
 
