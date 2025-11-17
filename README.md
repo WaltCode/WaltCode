@@ -84,4 +84,28 @@
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
+    alt="Go" 
+    width="40" 
+    height="40"
+  />
+</a>
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" 
+    alt="Gin Gonic" 
+    width="40" 
+    height="40"
+  />
+</a>
+<a href="https://grpc.io/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" 
+    alt="gRPC" 
+    width="40" 
+    height="40"
+  />
+</a>
 </p>
